@@ -17,4 +17,6 @@ https://github.com/ashleykleynhans/runpod-worker-llava
 
 https://github.com/Maxlinn/LLaVA-4V
 
+https://github.com/sshh12/multi_token
+
 
