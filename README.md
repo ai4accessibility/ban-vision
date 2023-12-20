@@ -1,6 +1,13 @@
 # ban-vision
 视力被封印以后的日子里
 
+palchenli
+
+https://github.com/palchenli/WebCam-LLaVA
+
+https://github.com/paynoww/wine-story-LLaVA
+
+https://github.com/shahizat/Vision2Audio
 
 https://github.com/OpenGVLab/Multi-Modality-Arena
 
