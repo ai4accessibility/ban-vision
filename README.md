@@ -1,7 +1,8 @@
 # ban-vision
 视力被封印以后的日子里
 
-palchenli
+https://github.com/Tapudp/what-is-this-app
+
 
 https://github.com/palchenli/WebCam-LLaVA
 
